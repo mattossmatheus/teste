@@ -7,7 +7,7 @@
 
 ### <p> Instalação</p>
 
-<p>Para instalar o agent, será necessario copiar o script *Dynatrace-OneAgent-Linux*, e chave *dt-root.cert* para o host ou container que queria monitorar e executar o seguinte comando: </p>
+<p>Para instalar o agent, será necessario copiar o script **Dynatrace-OneAgent-Linux**, e chave *dt-root.cert* para o host ou container que queria monitorar e executar o seguinte comando: </p>
 
 ```
 /bin/sh Dynatrace-OneAgent-Linux-1.203.166.sh --set-host-name="Gerdau Conainer" NON_ROOT_MODE=0
