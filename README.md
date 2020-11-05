@@ -13,4 +13,4 @@
 /bin/sh Dynatrace-OneAgent-Linux-1.203.166.sh --set-host-name="Nome do Container" NON_ROOT_MODE=0
 ```
 
-Obs: Mude o set-host-name com o nome do container da aplicação
+> Obs: Mude o set-host-name com o nome do container da aplicação
